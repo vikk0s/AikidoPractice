@@ -36,7 +36,7 @@
     </dependencies>
 
     <build>
-        <finalName>laskin</finalName>
+        <finalName>aikido-tracker</finalName>
         <plugins>
             <!-- Maven Compiler Plugin -->
             <plugin>
@@ -56,7 +56,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>Laskin</mainClass>
+                            <mainClass>org.example.AikidoPracticeTracker</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
